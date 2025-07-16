@@ -1,0 +1,11 @@
+debug/adminwindow.o
+debug/classes.o
+debug/globals.o
+debug/main.o
+debug/loginwindow.o
+debug/managerwindow.o
+debug/staffwindow.o
+debug/moc_adminwindow.o
+debug/moc_loginwindow.o
+debug/moc_managerwindow.o
+debug/moc_staffwindow.o
